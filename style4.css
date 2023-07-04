@@ -1,0 +1,93 @@
+.tituloseq{
+    border-width: thin;
+  border-style: solid;
+  border-color:black;
+  margin: auto;
+  width: 100%; /*Ancho*/
+	height: 100px; /*Alto*/
+background: #1D976C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  color: white;
+}
+
+
+.reseq{
+    border-width: thin;
+  border-style: solid;
+  border-color:black;
+  margin: auto; /*Centar*/
+background: #1D976C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */	font-family: arial;
+	font-size: 20px;/*Tamaño de la letra*/
+	color: #black; /*Color blanco*/
+	max-width: 1200px;/*Maximo de ancho*/
+	padding: 20px; /*Margen interno*/
+	margin-top: 30px;
+}
+
+.activ{
+     border-width: thin;
+  border-style: solid;
+  border-color:black;
+  margin: auto; /*Centar*/
+background: #1D976C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */	font-family: arial;
+	font-size: 20px;/*Tamaño de la letra*/
+	color: #black; /*Color blanco*/
+	max-width: 1200px;/*Maximo de ancho*/
+	padding: 20px; /*Margen interno*/
+	margin-top: 30px;
+}
+
+
+.tablaseq{
+  padding:10px;
+  color:white;
+  width: 300px;
+  margin:px;
+background: #1D976C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #93F9B9, #75e0a5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #93F9B9, #75e0a5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  float:left;
+  margin-top:20
+  font-family: arial;
+	font-size: 20px;
+}
+
+.tablaseq
+      th,
+    td{
+      border: 2px solid black;
+  margin: 0 auto;
+    }
+
+.eventoseq{
+   border-width: thin;
+  border-style: solid;
+  border-color:black;
+  margin: auto; /*Centar*/
+background: #1D976C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */	font-family: arial;
+	font-size: 20px;/*Tamaño de la letra*/
+	color: black; /*Color blanco*/
+	max-width: 1200px;/*Maximo de ancho*/
+	padding: 20px; /*Margen interno*/
+	margin-top: 30px;
+
+}
+
+
+
+.contenedor4{
+  display: flex;
+background: #1D976C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  border: 1px solid black;
+  /* justify-content: center; */
+}
+
+.img3{
+  margin: 50% left;
+}
